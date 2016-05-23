@@ -1,0 +1,9 @@
+http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.StratifiedShuffleSplit.html
+http://scikit-learn.org/stable/modules/generated/sklearn.grid_search.GridSearchCV.html
+http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+https://en.wikipedia.org/wiki/Precision_and_recall
+https://github.com/allanbreyes/udacity-data-science/blob/master/p4/scripts/poi_id.py
+https://github.com/sebasibarguen/udacity-nanodegree-machinelearning/blob/master/final_project/poi_id.py
+https://github.com/alexbra/ud-nd-project4/blob/master/poi_id.py
+https://github.com/FCH808/FCH808.github.io/blob/master/Intro%20to%20Machine%20Learning/ud120-projects/final_project/poi_id.py
+https://github.com/davidbroadwater/identifying-fraud-from-enron-email/blob/gh-pages/final_project/poi_id.py
